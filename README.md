@@ -1,5 +1,7 @@
 # The Coop Test
 
+<img src="assets/coop-logo.svg" width="150" align="right" alt="The Coop Test logo: an origami hen folded from two colors that never blend, with one egg.">
+
 ### Humanity kills over 70 billion chickens a year and nobody blinks. One person gets intimate with one chicken and it ends their life as they knew it.
 
 Both reactions are held by the same species, at the same time, without anyone feeling a

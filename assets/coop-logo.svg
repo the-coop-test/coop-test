@@ -1,0 +1,45 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Coop Test logo: an origami hen folded from two colors that never blend, with one egg">
+  <!-- The Coop Test — origami hen. It already folded. -->
+  <rect x="0" y="0" width="512" height="512" rx="96" fill="#0F1620"/>
+  <circle cx="285" cy="265" r="215" fill="#16202C"/>
+
+  <!-- ground shadows -->
+  <ellipse cx="288" cy="404" rx="160" ry="9" fill="#0B111A" opacity="0.75"/>
+  <ellipse cx="122" cy="409" rx="30" ry="7" fill="#0B111A" opacity="0.75"/>
+
+  <g stroke="#0F1620" stroke-width="4" stroke-linejoin="round">
+    <!-- ===== warm engine (rear): visceral ===== -->
+    <polygon points="336,158 462,120 376,244" fill="#E8A23D"/>
+    <polygon points="376,244 462,120 478,196" fill="#DD8A2F"/>
+    <polygon points="376,244 478,196 474,268" fill="#CF6B27"/>
+    <polygon points="376,244 474,268 424,332" fill="#B94E24"/>
+    <polygon points="300,340 376,244 424,332" fill="#A03A28"/>
+    <polygon points="268,146 336,158 300,340" fill="#EDAE52"/>
+    <polygon points="336,158 376,244 300,340" fill="#D97B33"/>
+    <polygon points="300,340 424,332 410,396" fill="#9C3B26"/>
+    <polygon points="300,340 410,396 300,398" fill="#B14A28"/>
+
+    <!-- ===== cool engine (front): clinical ===== -->
+    <polygon points="268,146 196,318 300,340" fill="#2E6F8C"/>
+    <polygon points="198,262 268,146 196,318" fill="#3D89A6"/>
+    <polygon points="210,158 268,146 198,262" fill="#549FB8"/>
+    <polygon points="210,158 198,262 168,246" fill="#6FB6CB"/>
+    <polygon points="146,158 210,158 168,246" fill="#4A93AD"/>
+    <polygon points="146,158 168,246 146,226" fill="#35789B"/>
+    <polygon points="142,184 146,226 146,158" fill="#2E6F8C"/>
+    <polygon points="196,318 300,340 300,398" fill="#26637F"/>
+    <polygon points="196,318 300,398 166,396" fill="#2E6F8C"/>
+
+    <!-- ===== accents ===== -->
+    <polygon points="166,110 146,158 210,158" fill="#C0392B"/>
+    <polygon points="146,226 168,246 162,282" fill="#A93226"/>
+    <polygon points="92,206 142,184 146,226" fill="#E8A23D"/>
+  </g>
+
+  <!-- eye: level, unbothered -->
+  <circle cx="176" cy="194" r="8" fill="#0F1620"/>
+  <circle cx="179" cy="191" r="2.6" fill="#E9F2F6"/>
+
+  <!-- the canary -->
+  <ellipse cx="122" cy="376" rx="25" ry="31" fill="#F2EAD9" stroke="#0F1620" stroke-width="4"/>
+</svg>
