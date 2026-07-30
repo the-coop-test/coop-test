@@ -1,0 +1,19 @@
+# Defense in depth: the private tier must never enter this repository.
+# The repo is rooted at public/ precisely so these files live OUTSIDE the
+# worktree — this list is the second lock, not the first.
+COOP-TEST-SPEC.md
+*SPEC*.md
+PUBLISH-CHECKLIST.md
+private/
+holdout/
+instances/
+keys/
+decoys/
+transcripts-raw/
+
+# Local tooling and environment
+.claude/
+.env
+*.local
+.DS_Store
+Thumbs.db
